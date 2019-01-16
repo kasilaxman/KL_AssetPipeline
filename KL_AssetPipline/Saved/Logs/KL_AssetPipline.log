@@ -401,3 +401,5 @@ LogInit: Object subsystem initialized
 [2019.01.09-15.56.41:671][555]LogSlate: Window 'Save Content' being destroyed
 [2019.01.09-15.56.41:684][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.09-15.56.41:721][555]LogSavePackage: Moving '../../../../../../Users/u0895866/Documents/GitHub/KL_AssetPipeline/KL_AssetPipline/Saved/KL_AssetPipline_BuiltData59F1973F4C33F5705C3BC19F3EF358FB.tmp' to '../../../../../../Users/u0895866/Documents/GitHub/KL_AssetPipeline/KL_AssetPipline/Content/KL_AssetPipline_BuiltData.uasset'
+[2019.01.09-15.57.25:673][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-16.00.50:240][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
